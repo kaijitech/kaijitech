@@ -4,51 +4,34 @@
 💡 With foundational knowledge in DevOps, Linux, and Automation
 
  🧑‍💻 About Me
-I am an IT-oriented learner focusing on system support, troubleshooting, and infrastructure basics.  
-I enjoy working with operating systems, networks, and automation tools to improve system reliability and efficiency.
-
-My current goal is to start as an IT Helpdesk / System Support, while continuously developing skills toward DevOps & Cloud.
+📍 Based in Ha Noi, Vietnam
+🔧 IT Helpdesk / System Support with DevOps foundations
+💡 Focused on automation, Linux systems, and infrastructure basics
+🛠 Practical experience through labs, scripts, and hands-on projects
 
  🛠️ Technical Skills
 
-🔹 Helpdesk & System Support
-- Windows 10/11 installation, troubleshooting, and optimization
-- Hardware diagnostics (RAM, Disk, PSU, peripherals)
-- Driver installation & system recovery
-- Basic Active Directory concepts
-- Printer, LAN, and user support
+🧰 Tech Stack & Tools
 
-🔹 Operating Systems
-- Windows (Admin tools, CMD, PowerShell)
-- Linux (Ubuntu/CentOS basics, CLI, services)
+🖥️ Systems & OS  
+Windows 10/11, Linux (Ubuntu/CentOS)
 
-🔹 Networking Basics
-- TCP/IP, DNS, DHCP
-- LAN troubleshooting
-- VPN fundamentals
+🛠 IT Support  
+Troubleshooting, Driver & Hardware, Printer, User Support
 
-🔹 DevOps Foundations
-- Linux system administration basics
-- Bash scripting (automation, system checks)
-- Git & GitHub
-- Docker fundamentals
-- CI/CD concepts (learning)
+🌐 Networking  
+TCP/IP, DNS, DHCP, VPN basics
 
-🔹 Security Awareness
-- System hardening basics
-- Backup & recovery concepts
-- Ethical hacking fundamentals (learning)
+⚙️ DevOps Foundations  
+Git, GitHub, Bash, Docker (basic), CI/CD concepts
+
+🔐 Security Basics  
+System hardening, backup & recovery fundamentals
 
  📂 Projects & Labs
 - Automated Windows system check scripts (SFC, DISM, CHKDSK)
 - Linux lab: user, service, and permission management
 - GitHub repositories for practice & documentation
-
- 📈 Currently Learning
-- Docker & containerization
-- CI/CD pipelines
-- Cloud fundamentals (AWS / Azure)
-- Monitoring & logging basics
 
  📫 Contact
 - Email: nguyenhuyhai.tech@gmail.com
