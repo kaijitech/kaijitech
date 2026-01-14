@@ -48,14 +48,6 @@
 
 ---
 
-## 📂 Projects & Labs
-
-* Automated Windows system check scripts (SFC, DISM, CHKDSK)
-* Linux labs: user, service, and permission management
-* GitHub repositories for practice and technical documentation
-
----
-
 ## 📫 Let's Connect
 
 * 📧 Email: [nguyenhuyhai.tech@gmail.com](mailto:nguyenhuyhai.tech@gmail.com)
