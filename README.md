@@ -35,6 +35,7 @@
 
 ### ⚙️ DevOps Foundations
 
+![Python](https://img.shields.io/badge/Python-Basic-yellow)
 ![Git](https://img.shields.io/badge/Git-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-lightgrey)
