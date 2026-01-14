@@ -7,7 +7,7 @@
 ## 👤 About Me
 
 * 📍 Based in Ha Noi, Vietnam
-* 🔧 Interested in IT Helpdesk, system administration, and DevOps fundamentals
+* 🔧 IT Helpdesk / System Support with DevOps foundations
 * 💡 Passionate about troubleshooting, automation, and system reliability
 * 🛠 Hands-on experience through labs, scripts, and practical projects
 
