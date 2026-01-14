@@ -1,37 +1,61 @@
-👋 Hi, I'm Huy Hai
+# Hi, I'm Huy Hai 👋
 
-🎯 IT Helpdesk / System Support
-💡 With foundational knowledge in DevOps, Linux, and Automation
+🎯 **IT Helpdesk / System Support** | ⚙️ **DevOps Foundations** | 🐧 **Linux & Automation**
 
- 🧑‍💻 About Me
-📍 Based in Ha Noi, Vietnam
-🔧 IT Helpdesk / System Support with DevOps foundations
-💡 Focused on automation, Linux systems, and infrastructure basics
-🛠 Practical experience through labs, scripts, and hands-on projects
+---
 
- 🛠️ Technical Skills
+## 👤 About Me
 
-🧰 Tech Stack & Tools
+* 📍 Based in Ha Noi, Vietnam
+* 🔧 Interested in IT Helpdesk, system administration, and DevOps fundamentals
+* 💡 Passionate about troubleshooting, automation, and system reliability
+* 🛠 Hands-on experience through labs, scripts, and practical projects
 
-🖥️ Systems & OS  
-Windows 10/11, Linux (Ubuntu/CentOS)
+---
 
-🛠 IT Support  
-Troubleshooting, Driver & Hardware, Printer, User Support
+## 🧰 Tech Stack & Tools
 
-🌐 Networking  
-TCP/IP, DNS, DHCP, VPN basics
+### 🖥️ Systems & OS
 
-⚙️ DevOps Foundations  
-Git, GitHub, Bash, Docker (basic), CI/CD concepts
+![Windows](https://img.shields.io/badge/Windows-10/11-blue)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20CentOS-orange)
 
-🔐 Security Basics  
-System hardening, backup & recovery fundamentals
+### 🛠 IT Support
 
- 📂 Projects & Labs
-- Automated Windows system check scripts (SFC, DISM, CHKDSK)
-- Linux lab: user, service, and permission management
-- GitHub repositories for practice & documentation
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-IT%20Support-green)
+![Hardware](https://img.shields.io/badge/Hardware-Support-lightgrey)
+![Printer](https://img.shields.io/badge/Printer-Support-blue)
 
- 📫 Contact
-- Email: nguyenhuyhai.tech@gmail.com
+### 🌐 Networking
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue)
+![DNS](https://img.shields.io/badge/DNS-Basics-lightblue)
+![DHCP](https://img.shields.io/badge/DHCP-Basics-lightblue)
+![VPN](https://img.shields.io/badge/VPN-Basics-orange)
+
+### ⚙️ DevOps Foundations
+
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![Bash](https://img.shields.io/badge/Bash-Scripting-lightgrey)
+![Docker](https://img.shields.io/badge/Docker-Basic-blue)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Concepts-green)
+
+### 🔐 Security Basics
+
+![Hardening](https://img.shields.io/badge/System-Hardening-red)
+![Backup](https://img.shields.io/badge/Backup%20%26%20Recovery-Basics-yellow)
+
+---
+
+## 📂 Projects & Labs
+
+* Automated Windows system check scripts (SFC, DISM, CHKDSK)
+* Linux labs: user, service, and permission management
+* GitHub repositories for practice and technical documentation
+
+---
+
+## 📫 Let's Connect
+
+* 📧 Email: [nguyenhuyhai.tech@gmail.com](mailto:nguyenhuyhai.tech@gmail.com)
